@@ -3,6 +3,13 @@ title: 常用git命令
 date: 2017-05-02 10:55:30
 tags: [git]
 ---
+### 本地代码上传github
+    git init
+    git add .
+    git commit -m "first commit"
+    git remote add origin git@github.com:simple7/blog.git
+    git push -u origin master
+    
 ### 新建代码库
     # 在当前目录新建一个git代码库
     git init
