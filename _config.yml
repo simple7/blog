@@ -62,6 +62,7 @@ time_format: HH:mm:ss
 # npm install hexo-generator-category --save
 # npm install hexo-generator-tag --save
 ## Set per_page to 0 to disable pagination
+
 #每页显示的文章量
 per_page: 1
 #首页的分页设置
